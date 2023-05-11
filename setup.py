@@ -6,7 +6,7 @@ setup(
     author='Michael Nefiodovas',
     author_email='michael@nef.net.au',
     packages=find_packages(),
-    url='http://github.com/yourusername/mypackage',
+    url='https://github.com/MouseAndKeyboard/GPTInterface',
     license='LICENSE.txt',
     description='A simple interface to OpenAI\'s GPT-3 API.',
     long_description=open('README.md').read(),
