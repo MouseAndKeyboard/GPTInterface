@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='GPTInterface',
     version='0.1',
-    author='Michael Nefiodovas',
+    author='Michael Nef',
     author_email='michael@nef.net.au',
     packages=find_packages(),
     url='https://github.com/MouseAndKeyboard/GPTInterface',
